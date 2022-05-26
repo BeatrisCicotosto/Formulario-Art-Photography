@@ -1,0 +1,33 @@
+body{
+    background:#b12d1c63;
+}
+
+#imagem {
+    height: 450px;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+#titulo{
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+}
+
+#subtitulo{
+    font-size:20px;
+}
+
+strong{
+    color:rgb(52, 28, 83);
+    border: 4px solid #000000;
+}
+
+#texto{
+    font-size:30px;
+}
